@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 737a28d699a9f304aa061ff3513d2dea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - compressiveArrow: {fileID: 1947626974381922, guid: 4f4d98b4aa843bf4bbc030a2e31db31a,
+      type: 3}
+  - tensileArrow: {fileID: 1947626974381922, guid: 4f4d98b4aa843bf4bbc030a2e31db31a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

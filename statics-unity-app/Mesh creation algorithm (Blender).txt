@@ -1,0 +1,24 @@
+Make beams between given node coordinates (beams will overlap)
+Set beam height and width
+Fix coordinates at beam ends using dx = cotangent(theta) * dy
+
+
+.-----. <- this is dx
+       _________________________	.
+      /					|
+     /					|
+    /					|	<- this is dy
+   /					|
+  /					|
+ /					|
+/_____________________________		.
+
+ ^
+ |
+This angle is theta
+
+
+
+
+Don't forget to remove two faces from each beam (from the 6 since you start with a cube, so that you have 4 in the end).
+Unwrap each beam for UV mapping.

@@ -1,0 +1,13 @@
+x`UniqueID:bjjfdgfcxjkdxjqwlk;
+Name:Conifers(C18);
+Density:0.380e-9;
+Price:1;
+Young:9000;     //Young's modulus MPa (N/mm^2)
+G:560;          //Shear modulus MPa
+fc0:18;         //Compressive strength (parallel) MPa
+fc90:2.2;       //Compressive strength (perpendicular) MPa
+ft0:11;         //Tensile strength (parallel) MPa
+ft90:0.4;       //Tensile strength (perpendicular) MPa
+fmk:18;         //Bending strength MPa
+fvk:3.4;        //Shear strength MPa
+TextureImage:texture.png;
