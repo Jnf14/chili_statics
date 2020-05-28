@@ -1,4 +1,4 @@
-#STATICS-NODE-SERVER
+# STATICS-NODE-SERVER
 
 - Install Node.js
 
